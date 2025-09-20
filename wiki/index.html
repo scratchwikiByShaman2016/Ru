@@ -83,7 +83,25 @@
  width: 80%;
  margin: 20px auto;
  }
+    /* Подвал сайта */
+        footer {
+            width: 100%;
+            background-color: #2c3e50; /* Темно-серый фон */
+            color: white;
+            text-align: center;
+            padding: 30px 0;
+            margin-top: auto; /* Прижимаем подвал к низу */
+        }
 
+        .footer-text {
+            font-size: 0.9em;
+            opacity: 0.7;
+        }
+        .footer-text a {
+            color: #3498db;
+            text-decoration: none;
+        }
+  
 
 .one p {
  font-family: "Noto Sans", sans-serif;
@@ -109,7 +127,12 @@
     </div>
   </div>
   <footer>
-    <iframe src="/Ru/footer"></iframe>
+    <div class="container">
+      <p class="footer-text">© 2025, ScratchWikiByShaman2016 — Вики-проект о Скретч'е созданный скретчером SHAMAN2016</p>
+      <p class="footer-text">
+        <a href="/Ru"><button>Ru lang</button></a>|<a href="/En"><button>En lang</button></a>
+      </p>
+    </div>
   </footer>
 </body>
 </html>
