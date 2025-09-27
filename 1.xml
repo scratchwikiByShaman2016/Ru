@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251"?>
+  <rss 
+    xmlns:yandex="https://scratchwikibyshaman2016.github.io/Ru" 
+    xmlns:media=""
+    version="2.0">
+    <channel>
+      <title>Скретч Вики</title>
+      <link>https://scratchwikibyshaman2016.github.io/Ru</link>
+      <description>Справочник по Скретчу</description>
+      <item>
+        <title>Облачные данные в Скретч(е): что это такое, как с ними работать и ограничения... И что от нас скрывали про них</title>
+        <link>https://scratchwikibyshaman2016.github.io/Ru/ОблачныеПеременные</link>
+        <pdalink>https://scratchwikibyshaman2016.github.io/Ru/ОблачныеПеременные</pdalink>
+        <description>Болачные Данные в Скретч(е): От того что это такое и их ограничений до обхода некоторых ограничений и жирных минусов...</description>
+        <category>Программирование</category>
+        <pubDate>Sun, 27 Sep 2025 10:03:00 +0300</pubDate>
+        <yandex:full-text>Облачные переменные в Скретче: Лимиты, взаимодействия только со статусом скретчера и то что от нас Скрывали...</yandex:full-text>
+       </item>
+     </channel>
+  </rss>
